@@ -1,7 +1,89 @@
 @charset "UTF-8";
 /*css Document */
 
+h2
+{ /* Font styles from Google fonts */
+  font-family: 'lato', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+}
+
 .hidden
 {
   display: none;
 }
+
+.container
+{
+margin: 0 auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+max-width: 1140px;
+}
+
+/*All 4 columns*/
+.box
+{
+padding: 15px;
+margin: 12px;
+height: 450px;
+flex: 1 1 auto;
+}
+
+/*Column 1 should be pink*/
+.box1
+{
+width: 100%;
+background-color: pink;
+}
+
+/*Column 2 should be red*/
+.box2
+{
+width: 100%;
+background-color: red;
+}
+
+/*Column 3 is hidden*/
+.box3
+{
+display: none;
+}
+
+/*Column 4 is hidden*/
+.box4
+{
+display: none;
+
+}
+
+/*All 4 columns  */
+@media screen and (min-width: 641px) {
+.box1
+{
+width: 16%;
+background-color: blue;
+}
+
+.box2
+{
+width: 16%;
+background-color: purple;
+}
+
+.box3
+{
+width: 16%;
+display: block;
+background-color: grey;
+}
+
+.box4
+{
+width: 16%;
+display: block;
+background-color: brown;
+}
+} /*close media screen and min width*/
