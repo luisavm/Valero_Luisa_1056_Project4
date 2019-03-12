@@ -5,11 +5,11 @@ This site creates a single web page with a basic example of media query. Ability
 
 ## Installation
 
-You should go to this [GitHub](https://github.com/luisavm/Valero_Luisa_1056_Project4.git) and download the folder to your computer or laptop. Inside the folder, it would be index.html for you to go to the web page.
+You should go to this [GitHub](https://github.com/luisavm/Valero_Luisa_1056_Project4.git) and download the folder to your computer or laptop. Inside the folder, it would be index.html for you and run browser. 
 
 ## Usage
 
-After having the webpage opened. You can play to explore different web responsive design: mobile, tablet, and desktop.
+After having the webpage opened. You can explore different web responsive design such as mobile, tablet, and desktop.
 
 ## Requirements
 
