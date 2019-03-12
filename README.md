@@ -27,7 +27,7 @@ Require to use a single web page with a basic example of media query:
 
 ## Note
 
-The site was built with HTML5, JavaScript, and CSS. HTML5 runs on Chrome, Firefox, Safari, Internet Explore 9 or higher.
+The site was built with HTML5 and CSS. HTML5 runs on Chrome, Firefox, Safari, Internet Explore 9 or higher.
 
 ## Developer and Designer
 Luisa Valero
